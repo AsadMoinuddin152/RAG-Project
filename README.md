@@ -250,7 +250,3 @@ This three-stage RAG pipeline ensures that answers are both relevant (thanks to 
 
 - **Local**: 16 GB RAM, ≥ 6 GB VRAM (RTX 3050/4050/4060), Python 3.10+
 - **Cloud (GPT API)**: minimal local resources; costs billed per token
-
-```
-
-```
