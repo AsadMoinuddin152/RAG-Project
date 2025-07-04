@@ -1,0 +1,7 @@
+.vscode
+.streamlit
+__pycache__
+.venv
+data
+Files
+models
